@@ -4,6 +4,7 @@
 spawn 5.100.313 holy_mantle
 spawn 5.100.108 the_wafer
 spawn 5.100.333 the_mind
+spawn 5.100.477 void
 spawn 5.100.76  x-ray_vision
 spawn 5.100.643 revelation
 spawn 5.100.331 godhead
