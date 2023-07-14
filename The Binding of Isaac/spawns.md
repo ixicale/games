@@ -1,36 +1,26 @@
 ## Base 
 
 ```
-spawn 5.100.313 holy_mantle
-spawn 5.100.108 the_wafer
-spawn 5.100.333 the_mind
-spawn 5.100.477 void
-spawn 5.100.76  x-ray_vision
-spawn 5.100.643 revelation
-spawn 5.100.331 godhead
-spawn 5.100.118 brimstone
+spawn 5.100.333 the mind
+spawn 5.100.245 20/20
+spawn 3.100.182 Sacred Heart
+spawn 5.100.169 Polyphemus
+spawn 5.100.335 The Soul
+spawn 5.100.313 Holy Mantle
+spawn 5.100.395 Tech X
+spawn 5.100.118 Brimstone
+spawn 5.100.331 Godhead
+spawn 5.100.149 Ipecac
+spawn 5.100.223 Pyromaniac
 spawn 5.100.596 uranus
+spawn 5.100.669 sausage
+spawn 5.100.669 sausage
 spawn 5.100.498 duality
-spawn 5.100.307 capricorn
-spawn 5.100.307 capricorn
-spawn 5.100.70  growth_hormones
-spawn 5.100.438 Binky
-spawn 5.100.438 Binky
-spawn 5.100.669 sausage
-spawn 5.100.669 sausage
-spawn 5.100.669 sausage
-spawn 5.100.309 pisces
-spawn 5.100.647 4_5_Volt
-```
+spawn 5.100.483 Mama Mega!
+spawn 5.100.477 void
+spawn 5.100.347 Diplopia
 
-## Support
 
-```
-spawn 5.100.360 Incubus
-spawn 5.100.363 sworn_protector
-spawn 5.100.363 sworn_protector
-spawn 5.100.363 sworn_protector
-spawn 5.100.139 mom_purse
 ```
 
 
@@ -41,7 +31,25 @@ spawn 5.100.18  a_dollar
 spawn 5.100.17  skelleton_key
 spawn 5.100.190 pyro
 spawn 5.30.2 golden_key
+
+```
+
+## Energy
+
+```
+spawn 5.100.116 9 Volt
+spawn 5.100.520 Jumper Cables
+spawn 5.100.63  The battery
+spawn 5.100.356 Car Battery
+
 ```
 
 
 
+## Knife
+
+```
+spawn 5.100.626 Knife Piece 1
+spawn 5.100.627 Knife Piece 2
+
+```
