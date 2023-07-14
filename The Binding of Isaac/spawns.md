@@ -7,7 +7,7 @@ spawn 3.100.182 Sacred Heart
 spawn 5.100.169 Polyphemus
 spawn 5.100.335 The Soul
 spawn 5.100.313 Holy Mantle
-spawn 5.100.395 Tech X
+spawn 5.100.369 Continuum
 spawn 5.100.118 Brimstone
 spawn 5.100.331 Godhead
 spawn 5.100.149 Ipecac
@@ -19,7 +19,9 @@ spawn 5.100.498 duality
 spawn 5.100.483 Mama Mega!
 spawn 5.100.477 void
 spawn 5.100.347 Diplopia
-
+spawn 5.100.581 Psy Fly
+spawn 5.100.581 Psy Fly
+spawn 5.100.581 Psy Fly
 
 ```
 
