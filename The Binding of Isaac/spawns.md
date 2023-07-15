@@ -19,6 +19,7 @@ spawn 5.100.498 duality
 spawn 5.100.483 Mama Mega!
 spawn 5.100.477 void
 spawn 5.100.347 Diplopia
+spawn 5.100.691 Sacred Orb
 spawn 5.100.347 Diplopia
 spawn 5.100.581 Psy Fly
 spawn 5.100.581 Psy Fly
