@@ -64,4 +64,13 @@ spawn 5.100.627 Knife Piece 2
 spawn 5.100.327 The polaroid
 
 ```
+## Cards
+
+```
+spawn 5.100.5 The emperor
+
+```
+
+
+
 
