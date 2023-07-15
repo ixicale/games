@@ -56,3 +56,12 @@ spawn 5.100.626 Knife Piece 1
 spawn 5.100.627 Knife Piece 2
 
 ```
+
+
+## The Polaroid
+
+```
+spawn 5.100.327 The polaroid
+
+```
+
