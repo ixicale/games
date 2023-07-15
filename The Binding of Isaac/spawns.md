@@ -65,10 +65,18 @@ spawn 5.100.627 Knife Piece 2
 spawn 5.100.327 The polaroid
 
 ```
+
 ## Cards
 
 ```
 spawn 5.300.5 The emperor
+
+```
+
+## Trinkets
+
+```
+spawn 5.350.3 AAA Battery
 
 ```
 
