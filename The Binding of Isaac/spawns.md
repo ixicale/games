@@ -143,3 +143,44 @@ spawn 5.350.3 AAA Battery
 
 
 
+
+```
+spawn 5.30.2    golden_key
+g c333 the mind
+g c108 The Wafer
+g c245 20/20
+g c169 Polyphemus
+g c335 The Soul
+g c313 Holy Mantle
+g c369 Continuum
+g c118 Brimstone
+g c118 Brimstone
+g c331 Godhead
+g c149 Ipecac
+g c223 Pyromaniac
+g c669 sausage
+g c669 sausage
+g c669 sausage
+g c498 duality
+g c691 Sacred Orb
+g c584 Book of Virtues
+g c581 Psy Fly
+g c581 Psy Fly
+g c581 Psy Fly
+g c11  1up!
+g c71  Mini Mush
+g c553 Mucormycosis
+g c665 Guppy's Eye
+g c17  skelleton_key
+g c18  a_dollar
+g c64  Steam sale
+g c376 Restock
+g c190 pyro
+g c660 Card Reading
+g c116 9 Volt
+g c520 Jumper Cables
+g c63  The battery
+g c356 Car Battery
+
+
+```
