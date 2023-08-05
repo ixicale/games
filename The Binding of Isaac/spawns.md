@@ -61,15 +61,28 @@ g c553 Mucormycosis
 
 ## Greedy
 
+Pedestals
 ```
-spawn 5.100.665 Guppy's Eye
 spawn 5.30.2    golden_key
+spawn 5.100.665 Guppy's Eye
 spawn 5.100.17  skelleton_key
 spawn 5.100.18  a_dollar
 spawn 5.100.64  Steam sale
 spawn 5.100.376 Restock
 spawn 5.100.190 pyro
+spawn 5.100.660 Card Reading
+```
 
+Direct
+```
+spawn 5.30.2    golden_key
+g c665 Guppy's Eye
+g c17  skelleton_key
+g c18  a_dollar
+g c64  Steam sale
+g c376 Restock
+g c190 pyro
+g c660 Card Reading
 ```
 
 ## Energy
