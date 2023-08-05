@@ -71,6 +71,7 @@ spawn 5.100.64  Steam sale
 spawn 5.100.376 Restock
 spawn 5.100.190 pyro
 spawn 5.100.660 Card Reading
+
 ```
 
 Direct
@@ -83,6 +84,7 @@ g c64  Steam sale
 g c376 Restock
 g c190 pyro
 g c660 Card Reading
+
 ```
 
 ## Energy
