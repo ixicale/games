@@ -1,3 +1,18 @@
+# The Binding of Isaac
+
+## Pre requirements
+
+Enable debug console, open the game file `options.ini` and set the value as `1`. To do that:
+1. [WIN] + [R] and input 
+  ```
+  %USERPROFILE%\Documents\My Games
+  ```
+2. Open the Game folder `Binding of Isaac Repentance`
+3. Open with a editor `options.ini`, then search for `EnableDebugConsole`.
+4. Set the value as `1`. It should be `EnableDebugConsole=1`
+5. Save the file
+6. Open the game. Test it with a new run and hit `~` to open the console
+
 ## Base 
 
 Pedestals
